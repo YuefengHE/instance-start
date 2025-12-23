@@ -1,0 +1,4 @@
+ibm-vpc
+ibm-cloud-sdk-core
+paramiko
+requests
